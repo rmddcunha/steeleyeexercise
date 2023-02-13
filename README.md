@@ -23,3 +23,7 @@ Write an output CSV file containing the foll columns:
 Notes:
 Remember to handle nulls for all fields in a suitable way.
 Use any libraries you like. But make sure the code is modularised, uses suitable logging, exception handling, coding style, formatting, docstrings, comments. Imagine that you're writing code that will go to production.
+
+# Solution
+
+Please run the script.py file.
